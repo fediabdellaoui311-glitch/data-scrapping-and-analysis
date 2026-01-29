@@ -215,17 +215,10 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 **ABDELLAOUI FEDI**
 
-- GitHub: [@votre-username](https://github.com/votre-username)
-- Email: votre.email@example.com
+- GitHub: (https://github.com/fediabdellaoui311-glitch)
+- Email: fediabdellaoui311@gmail.com
 
-**Encadrement**: MR. TIEN MOREL
 
-## 🙏 Remerciements
-
-- Université Paris Nanterre
-- Yahoo Finance pour les données du Dow Jones
-- Global Warming API pour les données de CO2
-- La communauté open-source Python
 
 ## 📚 Références
 
